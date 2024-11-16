@@ -32,7 +32,7 @@ class LoginPage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'VIP ورود به حساب سینگنال ',
+                      'VIP ورود به حساب سیگنال ',
                       style: TextStyle(
                           fontWeight: FontWeight.bold, fontSize: 25.0, color: Colors.white),
                     )
